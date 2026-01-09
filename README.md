@@ -5,6 +5,14 @@ An end-to-end **interactive time series forecasting application** built using **
 This project demonstrates a **complete data science workflow** using **statistical models, machine learning, and deep learning**, along with EDA, hypothesis testing, auto-tuning, evaluation, and price forecasting.
 
 ---
+🚀 Live Deployment
+
+The application is successfully deployed on Streamlit Community Cloud and is publicly accessible.
+
+🔗 Live Demo:
+👉 https://aatlee-stock-price-forecasting-aapl.streamlit.app/
+
+---
 
 ## 🔍 Project Overview
 
