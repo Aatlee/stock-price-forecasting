@@ -203,8 +203,7 @@ Forecasts are **not financial advice**.
 ---
 
 ## 👤 Author
-
-Athul N A  
+Aatlee V Varghese  
 Thrissur, Kerala, India  
-Email: athulajithan039@gmail.com  
-GitHub: https://github.com/Athulajithan  
+Email: aatlee23@gmail.com  
+GitHub: https://github.com/Aatlee 
